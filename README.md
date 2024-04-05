@@ -1,6 +1,6 @@
-# .NET Core API Projesi
+# .NET Core Web API Projesi
 
-Bu repo, Setsis Bilişim Şirketi için geliştirilmiş katmanlı mimariye sahip bir .NET Core API projesidir.
+Bu repo, çok katmanlı mimariye sahip bir .NET Core API projesidir.
 
 ## Tasarım Desenleri
 
